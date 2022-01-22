@@ -3,3 +3,10 @@
   height: 15px !important;
   border-radius: 100% !important;
 }
+.overlay{
+  background-color: black;
+  opacity: .4;
+}
+.schedule{
+  width: 90%;
+}
