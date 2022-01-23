@@ -1,3 +1,10 @@
+
+.tx{
+  font-weight: 700;
+  /* word-spacing: 5px; */
+  letter-spacing: 2.5px;
+  font-family:monospace;
+}
 .carousel-indicators button{
   width: 15px !important;
   height: 15px !important;
@@ -9,4 +16,12 @@
 }
 .schedule{
   width: 90%;
+}
+.fixed-bg{
+  background-image: url("/images/schedule/bg.jpg");
+  background-position:left;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 60vh;
 }
